@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-<a href=https://open.spotify.com/track/5UvyGlP3acSQ66nIpWksBt?si=JU2gS4u-QiGkwfCaHT6WMQ&utm_source=copy-link><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=nu45gm4u9aahlsxhzt2vpige5&cover_image=false"></a>
+<a href=https://open.spotify.com/track/5UvyGlP3acSQ66nIpWksBt?si=JU2gS4u-QiGkwfCaHT6WMQ&utm_source=copy-link><img align="center" src="https://open.spotify.com/track/5UvyGlP3acSQ66nIpWksBt?si=JU2gS4u-QiGkwfCaHT6WMQ&utm_source=copy-link"></a>
 </p>
